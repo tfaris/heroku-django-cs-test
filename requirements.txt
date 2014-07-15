@@ -1,3 +1,3 @@
 Django==1.6.5
 distribute
-gunicorn==0.13.4
+gunicorn==18.0
